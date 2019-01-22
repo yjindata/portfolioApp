@@ -1,7 +1,7 @@
 # portfolioApp
 
-Yujin Kim
-url: 
+Yujin Kim <br>
+url: <br>
 
 Hi, My name is Yujin Kim. I'm a full-stack software developer. 
 
